@@ -10,6 +10,7 @@ export default function PageOne() {
             align-items: center;
             height: 100vh;
             margin: 0;
+            background-color: hsl(47, 88%, 63%);
           }
 
           .card {
